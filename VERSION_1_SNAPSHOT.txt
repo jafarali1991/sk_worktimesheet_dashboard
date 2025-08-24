@@ -1,0 +1,2 @@
+// Version 1 snapshot: Original dashboard with sidebar and WorkTimesheet page
+// This file marks the initial working version before new design and pagination changes.
